@@ -62,3 +62,10 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+
+**/.bridge/*
+**/.codesight/*
+/idir/
+**/idir/*
+coverity.yaml
